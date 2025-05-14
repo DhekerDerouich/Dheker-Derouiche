@@ -36,7 +36,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- 💼 LinkedIn: [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/dheker-derouiche-6783a1349/))
 
 ---
 
